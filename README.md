@@ -26,7 +26,7 @@ A simple and responsive online grocery shopping web application where users can 
 ## 📷 Screenshots
 
 
-![Home Page](https://1drv.ms/i/c/95788ff7fa72d538/EQFu9EqlJutOp-_jIgEin7EBYywxrOfL8_xW7cjT42T2_w?e=kNPTPJ)
+![Home Page](https://github.com/shreshtha-26/mini-grocery-shop/blob/main/Home%20page.png?raw=true)
 ![Cart Page](https://github.com/shreshtha-26/mini-grocery-shop/blob/main/Cart%20page.png?raw=true)
 ![Admin Panel](https://github.com/shreshtha-26/mini-grocery-shop/blob/main/Admin%20panel%20page.png?raw=true)
 
